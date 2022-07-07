@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I used to make music
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthakrawat)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/man_of_namek/) 
