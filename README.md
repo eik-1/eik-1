@@ -11,3 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Instagram] (https://www.instagram.com/drugsdarkweb/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I used to make music
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthakrawat)](https://github.com/anuraghazra/github-readme-stats)
+
