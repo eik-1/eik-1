@@ -39,6 +39,10 @@ Here are some ideas to get you started:
             <td width="80px" align="center">
             <span><strong>CSS</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+                </td>
+        </tr>
+    </tbody>
+</table>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarthak-69&show_icons=true&theme=radical)
