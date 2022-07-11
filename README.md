@@ -21,11 +21,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... I used to make music; I like to workout; I like to play games
 
 #### Known Languages 
+<table width="320px">
+    <tbody>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Python</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Java</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>HTML</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>CSS</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-
-<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarthak-69&show_icons=true&theme=radical)
 
 
