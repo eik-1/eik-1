@@ -1,4 +1,5 @@
-### Hi there 👋, Sarthak Rawat
+### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">, 
+    I'm Sarthak Rawat
 #### I am an absurdist learning how to code
 I am currently an undergrad pursuing Bachelors in Computer Science.
 I am currently invested in learing JS, HTML, CSS and PYTHON. 
@@ -17,7 +18,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Crypto & Philosophy
 - 📫 How to reach me: ... [Instagram] (https://www.instagram.com/drugsdarkweb/)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I used to make music
+- ⚡ Fun fact: ... I used to make music; I like to workout; I like to play games
+
+#### Known Languages 
+
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarthak-69&show_icons=true&theme=radical)
