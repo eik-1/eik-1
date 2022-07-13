@@ -6,7 +6,7 @@
 <h2> I am an absurdist learning how to code </h2>
 I am currently an undergrad pursuing Bachelors in Computer Science.
 I am currently invested in learing JS, HTML, CSS and PYTHON. 
-I also love to read Philosophies ( particularly Mordern Philosophy )
+I also love to study Philosophies ( particularly Mordern Philosophy )
 I am in an open relationship with Crypto. Open because I sometimes cheat on it with Music.
 
 Skills:  JS / HTML / CSS / Python
