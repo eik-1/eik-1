@@ -5,18 +5,18 @@
 
 <h2> I am an absurdist learning how to code </h2>
 I am currently an undergrad pursuing Bachelors in Computer Science.
-I am currently invested in learing JS, HTML, CSS and PYTHON. 
+I am currently invested in learing JS, HTML, CSS and Smart Contracts. 
 I also love to study Philosophies ( particularly Mordern Philosophy )
 I am in an open relationship with Crypto. Open because I sometimes cheat on it with Music.
 
-Skills:  JS / HTML / CSS / Python
+Skills:  JS / HTML / CSS / Solidity / Smart Contracts
 
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Web3
 - 🌱 I’m currently learning ... Like every language
-- 👯 I’m looking to collaborate on ... Python
+- 👯 I’m looking to collaborate on ... Solidity
 - 🤔 I’m looking for help with ... Web Development
 - 💬 Ask me about ... Crypto & Philosophy
 - 📫 How to reach me: ... [Instagram] (https://www.instagram.com/drugsdarkweb/)
