@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 </table>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarthak-69&show_icons=true&theme=radical)
+![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarthak-69&show_icons=true&theme=radical)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/man_of_namek/) 
