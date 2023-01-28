@@ -3,7 +3,7 @@
 
 <p align="center"><img src="https://github.githubassets.com/images/mona-whisper.gif" alt="mona whisper" /></p>
 
-![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+
 
 <h2> I am an absurdist learning how to code </h2>
 I am currently an undergrad pursuing Bachelors in Computer Science.
