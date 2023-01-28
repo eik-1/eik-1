@@ -6,7 +6,6 @@
 <h2> I am an absurdist learning how to code </h2>
 I am currently an undergrad pursuing Bachelors in Computer Science.
 I am currently invested in learing JS, HTML, CSS and Smart Contracts. 
-I also love to study Philosophies ( particularly Mordern Philosophy )
 I am in an open relationship with Crypto. Open because I sometimes cheat on it with Music.
 
 Skills:  JS / HTML / CSS / Solidity / Smart Contracts
@@ -14,13 +13,12 @@ Skills:  JS / HTML / CSS / Solidity / Smart Contracts
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Web3
-- 🌱 I’m currently learning ... Like every language
-- 👯 I’m looking to collaborate on ... Solidity
+- 🔭 I’m currently working on ... Web3 Project and Web Designing
+- 🌱 I’m currently learning ... Solidity, React, JS
+- 👯 I’m looking to collaborate on ... Solidity and Web Development
 - 🤔 I’m looking for help with ... Web Development
-- 💬 Ask me about ... Crypto & Philosophy
+- 💬 Ask me about ... Blockchain and Web Designing
 - 📫 How to reach me: ... [Instagram] (https://www.instagram.com/drugsdarkweb/)
-- 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I used to make music; I like to workout; I like to play games
 
 #### Known Languages 
@@ -38,7 +36,19 @@ Here are some ideas to get you started:
             <td width="80px" align="center">
             <span><strong>CSS</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-                </td>
+            </td>
+            <td width="80px" align="center">
+            <span><strong>CSS</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>CSS</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>CSS</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+            </td>
         </tr>
     </tbody>
 </table>
