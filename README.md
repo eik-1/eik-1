@@ -1,4 +1,4 @@
-### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">, 
+## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">, 
 ### I'm Sarthak Rawat
 
 <p align="center"><img src="https://github.githubassets.com/images/mona-whisper.gif" alt="mona whisper" /></p>
@@ -60,6 +60,8 @@ Here are some ideas to get you started:
 ![Eik's GitHub stats](https://github-readme-stats.vercel.app/api?username=eik-1&show_icons=true&theme=radical)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/eik.crimes/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sarthakrawatbiz)  
+[<img height="32" width="32" src="https://cdn.simpleicons.org/instagram/gray"/>](https://www.instagram.com/eik.crimes/) 
 
+[<img height="32" width="32" src="https://cdn.simpleicons.org/twitter/gray"/>](https://twitter.com/sarthakrawatbiz)  
+
+[<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/gray"/>](https://www.linkedin.com/in/sarthak-raw-eth/)
