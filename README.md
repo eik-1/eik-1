@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Solidity and Web Development
 - 🤔 I’m looking for help with ... Web Development
 - 💬 Ask me about ... Blockchain and Web Designing
-- 📫 How to reach me: ... [Instagram] (https://www.instagram.com/drugsdarkweb/)
+- 📫 How to reach me: ... [Instagram](https://www.instagram.com/eik.crimes/)
 - ⚡ Fun fact: ... I used to make music; I like to workout; I like to play games
 
 #### Known Languages 
@@ -60,6 +60,6 @@ Here are some ideas to get you started:
 ![Eik's GitHub stats](https://github-readme-stats.vercel.app/api?username=eik-1&show_icons=true&theme=radical)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/man_of_namek/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/eik.crimes/) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sarthakrawatbiz)  
 
