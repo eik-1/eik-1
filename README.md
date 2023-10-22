@@ -60,8 +60,4 @@ Here are some ideas to get you started:
 ![Eik's GitHub stats](https://github-readme-stats.vercel.app/api?username=eik-1&show_icons=true&theme=radical)
 
 
-[<img height="32" width="32" src="https://cdn.simpleicons.org/instagram/gray"/>](https://www.instagram.com/eik.crimes/) 
-
-[<img height="32" width="32" src="https://cdn.simpleicons.org/twitter/gray"/>](https://twitter.com/sarthakrawatbiz)  
-
-[<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/gray"/>](https://www.linkedin.com/in/sarthak-raw-eth/)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/instagram/dcd0ff"/>](https://www.instagram.com/eik.crimes/)     [<img height="32" width="32" src="https://cdn.simpleicons.org/twitter/dcd0ff"/>](https://twitter.com/sarthakrawatbiz)      [<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/dcd0ff"/>](https://www.linkedin.com/in/sarthak-raw-eth/)
