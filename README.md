@@ -3,13 +3,13 @@
 <p align="center"><img src="https://github.githubassets.com/images/mona-whisper.gif" alt="mona whisper" /></p>
 
 <h2> I am Sarthak</h2>
-I am currently an undergrad pursuing Bachelors in Computer Science. 
-I am currently invested in learing JS, Hardhat and Smart Contracts. 
-I am in an open relationship with Crypto and Web3 
-
+I am currently an undergrad pursuing Bachelors in Computer Science.<br>
+I am currently invested in learing JS, Hardhat and Smart Contracts. <br>
+I am in an open relationship with Crypto and Web3. <br>
+<br>
 Skills:  Blockchain Devleopment / React / Hardhat / Smart Contracts / Auditing 
-
-
+<br>
+<br>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Web3 Project and Web Designing
