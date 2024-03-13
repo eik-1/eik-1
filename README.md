@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Smart Contracts
 - 🤔 I’m looking for help with ... React
 - 💬 Ask me about ... Blockchain and Web Designing
-- 📫 How to reach me: ... [Instagram](https://www.instagram.com/eik.crimes/), [Twitter](https://twitter.com/sarthakrawatbiz)  
+- 📫 How to reach me: ... [Instagram](https://www.instagram.com/eik.one/), [Twitter](https://twitter.com/sarthakrawatbiz)  
 
 #### Known Languages 
 <table width="320px">
