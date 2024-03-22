@@ -48,13 +48,10 @@ Here are some ideas to get you started:
     </tbody>
 </table>
 
-
 ![Eik's GitHub stats](https://github-readme-stats.vercel.app/api?username=eik-1&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eik-1&langs_count=5)
 
 <a href="https://app.daily.dev/sarthakrawat"><img src="https://api.daily.dev/devcards/v2/tcAdQxN9NFV4dtcSOrnoD.png?type=wide&r=wjp" width="652" alt="Sarthak Rawat's Dev Card"/></a>
-
-[![An image of @eik1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/eik1)](https://holopin.io/@eik1)
 
 [<img height="32" width="32" src="https://cdn.simpleicons.org/instagram/dcd0ff"/>](https://www.instagram.com/eik.crimes/)     [<img height="32" width="32" src="https://cdn.simpleicons.org/twitter/dcd0ff"/>](https://twitter.com/sarthakrawatbiz)      [<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/dcd0ff"/>](https://www.linkedin.com/in/sarthak-raw-eth/)
