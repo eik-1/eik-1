@@ -7,46 +7,8 @@ I am currently an undergrad pursuing Bachelors in Computer Science.<br>
 I am currently invested in learing JS, Hardhat and Smart Contracts. <br>
 I am in an open relationship with Crypto and Web3. <br>
 <br>
-Skills:  Blockchain Devleopment / React / Hardhat / Smart Contracts / Auditing 
+[![My Skills](https://skillicons.dev/icons?i=solidity,react,redux,ipfs,astrojs,nextjs,firebase,supabase,git,graphql,mongodb,nodejs,html,css,bootstrap,c,cpp,vscode,postman&perline=5&theme=light)](https://skillicons.dev)
 <br>
-<br>
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... Web3 Project and Web Designing
-- 🌱 I’m currently learning ... Solidity, React, Hardhat, Foundry
-- 👯 I’m looking to collaborate on ... Smart Contracts
-- 🤔 I’m looking for help with ... React
-- 💬 Ask me about ... Blockchain and Web Designing
-- 📫 How to reach me: ... [Instagram](https://www.instagram.com/eik.one/), [Twitter](https://twitter.com/sarthakrawatbiz)  
-
-#### Known Languages 
-<table width="320px">
-    <tbody>
-        <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>Python</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>CSS</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Solidity</strong></span><br>
-            <i class="devicon-solidity-plain"></i>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>React</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>C++</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-            </td>
-        </tr>
-    </tbody>
-</table>
 
 ![Eik's GitHub stats](https://github-readme-stats.vercel.app/api?username=eik-1&show_icons=true&theme=radical)
 
