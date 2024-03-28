@@ -8,7 +8,9 @@ I am currently invested in learing JS, Hardhat and Smart Contracts. <br>
 I am in an open relationship with Crypto and Web3. <br>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=solidity,react,redux,ipfs,astrojs,nextjs,firebase,supabase,git,graphql,mongodb,nodejs,html,css,bootstrap,c,cpp,vscode,postman&perline=5&theme=light)](https://skillicons.dev)
+<h2> My Skills </h2>
+
+[![My Skills](https://skillicons.dev/icons?i=solidity,react,redux,ipfs,astro,nextjs,firebase,supabase,git,graphql,mongodb,nodejs,html,css,bootstrap,c,cpp,vscode,postman&perline=5&theme=light)](https://skillicons.dev)
 <br>
 
 ![Eik's GitHub stats](https://github-readme-stats.vercel.app/api?username=eik-1&show_icons=true&theme=radical)
