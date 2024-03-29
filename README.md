@@ -19,5 +19,3 @@ I am in an open relationship with Crypto and Web3. <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eik-1&langs_count=5)
 
 <a href="https://app.daily.dev/sarthakrawat"><img src="https://api.daily.dev/devcards/v2/tcAdQxN9NFV4dtcSOrnoD.png?type=wide&r=wjp" width="652" alt="Sarthak Rawat's Dev Card"/></a>
-
-[<img height="32" width="32" src="https://cdn.simpleicons.org/instagram/dcd0ff"/>](https://www.instagram.com/eik.crimes/)     [<img height="32" width="32" src="https://cdn.simpleicons.org/twitter/dcd0ff"/>](https://twitter.com/sarthakrawatbiz)      [<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/dcd0ff"/>](https://www.linkedin.com/in/sarthak-raw-eth/)
