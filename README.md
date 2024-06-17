@@ -16,4 +16,3 @@ I am in an open relationship with Crypto and Web3. <br>
 
 ![Eik's GitHub stats](https://github-readme-stats.vercel.app/api?username=eik-1&show_icons=true&theme=radical)
 
-<a href="https://app.daily.dev/sarthakrawat"><img src="https://api.daily.dev/devcards/v2/tcAdQxN9NFV4dtcSOrnoD.png?type=wide&r=wjp" width="652" alt="Sarthak Rawat's Dev Card"/></a>
