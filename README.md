@@ -2,10 +2,10 @@
 
 <p align="center"><img src="https://github.githubassets.com/images/mona-whisper.gif" alt="mona whisper" /></p>
 
-<h2> I am Sarthak</h2>
-I am currently an undergrad pursuing Bachelors in Computer Science.<br>
-I am currently invested in learing JS, Hardhat and Smart Contracts. <br>
-I am in an open relationship with Crypto and Web3. <br>
+<h2> I am Sarthak aka Eik</h2>
+I am currently an undergrad pursuing Bachelors in Computer Science <br>
+I am invested in learing Smart Contracts and building on Ethereum <br>
+I am in an open relationship with Crypto and Web3 <br>
 <br>
 
 <h2> My Skills </h2>
