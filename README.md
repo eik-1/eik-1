@@ -10,7 +10,7 @@ I am in an open relationship with Crypto and Web3 <br>
 
 <h2> My Skills </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=solidity,ts,lua,rust,nextjs,react,redux,ipfs,supabase,postgres,graphql,mongodb,redis,express,nodejs,docker,azure,aws,c,vscode,git,postman&perline=7&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=solidity,ts,lua,rust,nextjs,react,redux,ipfs,supabase,postgres,graphql,mongodb,redis,express,nodejs,docker,azure,aws,c,git,postman&perline=7&theme=light)](https://skillicons.dev)
 <br>
 <hr>
 
