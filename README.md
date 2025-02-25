@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://github.githubassets.com/images/mona-whisper.gif" alt="mona whisper" /></p>
 
-<h2> I am Sarthak aka Eik</h2>
+<h2> I am Sarthak</h2>
 I am currently an undergrad pursuing Bachelors in Computer Science <br>
 I am invested in learing Smart Contracts and building on Ethereum <br>
 I am in an open relationship with Crypto and Web3 <br>
@@ -10,7 +10,7 @@ I am in an open relationship with Crypto and Web3 <br>
 
 <h2> My Skills </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=solidity,react,redux,ipfs,astro,nextjs,firebase,supabase,git,graphql,mongodb,nodejs,html,css,bootstrap,c,cpp,vscode,postman&perline=7&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=solidity,ts,lua,rust,nextjs,react,redux,ipfs,supabase,postgres,graphql,mongodb,redis,express,nodejs,docker,azure,aws,c,vscode,git,postman&perline=7&theme=light)](https://skillicons.dev)
 <br>
 <hr>
 
