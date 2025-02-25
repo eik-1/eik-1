@@ -18,5 +18,6 @@ AI Image generation studio for custom professional photoshoots
 - **Website**: [Visit](https://snapstudio.me)
 
 <hr>
+
 ![Eik's GitHub stats](https://github-readme-stats.vercel.app/api?username=eik-1&show_icons=true&theme=radical)
 
