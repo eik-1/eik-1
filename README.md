@@ -1,18 +1,22 @@
-## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">, 
+# Sarthak Rawat
 
-<p align="center"><img src="https://github.githubassets.com/images/mona-whisper.gif" alt="mona whisper" /></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sarthakeik1)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:sarthakrawatbiz@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-Articles-green)](https://medium.com/@sarthakrawatbiz)
 
-<h2> I am Sarthak</h2>
-I am currently an undergrad pursuing Bachelors in Computer Science <br>
-I am invested in learing Smart Contracts and building on Ethereum <br>
-I am in an open relationship with Crypto and Web3 <br>
-<br>
+## 🎯 Mission
+Bringing something valuable to the world.
 
-<h2> My Skills </h2>
+## 🛠️ My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=solidity,ts,lua,rust,nextjs,react,redux,ipfs,supabase,postgres,graphql,mongodb,redis,express,nodejs,docker,azure,aws,c,git,postman&perline=7&theme=light)](https://skillicons.dev)
-<br>
-<hr>
 
+## 🚀 Key Projects
+
+### SnapStudio
+AI Image generation studio for custom professional photoshoots
+- **Website**: [Visit](https://snapstudio.me)
+
+<hr>
 ![Eik's GitHub stats](https://github-readme-stats.vercel.app/api?username=eik-1&show_icons=true&theme=radical)
 
